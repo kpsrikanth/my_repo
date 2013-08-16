@@ -1,2 +1,7 @@
 line 1
 THis is nice.. you can cat file with the blob that comes out fomr git-list command
+This is line 2
+This is line 3
+
+nOw it it committed to github
+github/kpsrikanth/my_repo
